@@ -4,4 +4,4 @@ The Pitagora Network is an open source community that aims to improve productivi
 
 ## Events
 
-See [event page](https://events.pitagora-network.org) for monthly meetups, workshops, and other meetings.
+See [event page](https://pitagora-network.org/events) for monthly meetups, workshops, and other meetings.
