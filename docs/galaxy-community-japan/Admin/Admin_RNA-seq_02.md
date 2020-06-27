@@ -1,9 +1,3 @@
----
-title: Admin RNA-seq 02
-permalink: /Admin_RNA-seq_02/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Admin](/Admin "wikilink")
 
 ピタゴラのVMとの接続が確認できたあとに、RNAseq-Sailfish WF の動作環境を構築するためにやったこと
 

@@ -1,9 +1,3 @@
----
-title: Get Started
-permalink: /Get_Started/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt;
 
 初めての方のためのハンズオン
 ----------------------------

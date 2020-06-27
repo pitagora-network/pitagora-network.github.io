@@ -1,9 +1,3 @@
----
-title: Wikiの作成手順
-permalink: /Wikiの作成手順/
----
-
-### 自動ログアウト時間変更
 
 `$ sudo vi /etc/php5/apache2/php.ini`
 `#session.gc_maxlifetime = 1440 (= 24 min)`

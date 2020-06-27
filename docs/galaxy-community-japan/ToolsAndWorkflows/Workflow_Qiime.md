@@ -1,9 +1,3 @@
----
-title: Workflow Qiime
-permalink: /Workflow_Qiime/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 [Quantitative Insights into Microbial Ecology (QIIME)](http://qiime.org)
 ========================================================================

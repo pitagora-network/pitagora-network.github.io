@@ -1,9 +1,3 @@
----
-title: Benchmark
-permalink: /Benchmark/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 Pitagora 0.2.1
 --------------

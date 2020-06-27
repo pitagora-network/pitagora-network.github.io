@@ -1,9 +1,3 @@
----
-title: Presentations
-permalink: /Presentations/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Admin](/Admin "wikilink") &gt;&gt;
 
 Galaxy Community Japan メンバーによる学会等における対外的な発表です
 

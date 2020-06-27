@@ -1,9 +1,3 @@
----
-title: Cloud
-permalink: /Cloud/
----
-
-最新のAMI
 ---------
 
 -   Version 0.2.3

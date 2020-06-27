@@ -1,9 +1,3 @@
----
-title: VirAmp Workflows
-permalink: /VirAmp_Workflows/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 [VirAmp](https://wiki.galaxyproject.org/PublicGalaxyServers#VirAmp)は、ウイルス ゲノム アセンブリと変動発見のためのGalaxyサーバー。
 

@@ -1,9 +1,3 @@
----
-title: Workflow ChIP-seq 02
-permalink: /Workflow_ChIP-seq_02/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 概要
 ----

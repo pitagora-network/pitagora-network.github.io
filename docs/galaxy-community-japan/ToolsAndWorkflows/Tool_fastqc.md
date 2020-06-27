@@ -1,9 +1,3 @@
----
-title: Tool fastqc
-permalink: /Tool_fastqc/
----
-
-**概要**
 
 -   NGSで読まれたデータのクオリティを検査します。
 

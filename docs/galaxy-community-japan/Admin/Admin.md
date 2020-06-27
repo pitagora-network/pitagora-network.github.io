@@ -1,9 +1,3 @@
----
-title: Admin
-permalink: /Admin/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt;
 
 手順書
 ------

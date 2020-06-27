@@ -1,9 +1,3 @@
----
-title: Qiime ツールのインストール方法
-permalink: /Qiime_ツールのインストール方法/
----
-
-[チュートリアル](https://docs.google.com/document/d/1MfDtfGMN_qtQjJPqtJ_0OLV52F5-MQWdGlJOSM-4DSM/edit?usp=sharing)
 
 2017/07/05 手順
 ---------------

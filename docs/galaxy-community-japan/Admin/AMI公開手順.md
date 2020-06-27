@@ -1,9 +1,3 @@
----
-title: AMI公開手順
-permalink: /AMI公開手順/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Admin](/Admin "wikilink") &gt;&gt;
 
 EC2 API Tools をダウンロード
 ----------------------------

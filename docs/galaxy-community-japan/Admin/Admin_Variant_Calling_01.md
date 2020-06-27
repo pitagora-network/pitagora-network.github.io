@@ -1,9 +1,3 @@
----
-title: Admin Variant Calling 01
-permalink: /Admin_Variant_Calling_01/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Admin](/Admin "wikilink") &gt;&gt;
 
 既存ワークフローまとめ
 ----------------------

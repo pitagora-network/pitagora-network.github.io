@@ -1,9 +1,3 @@
----
-title: GWT2016 Plan
-permalink: /GWT2016_Plan/
----
-
-__NOTOC__ こちらは Galaxy Workshop Tokyo 2016 の準備のためのページです。
 
 現時点ではまだ**正式な開催告知ではありません**のでご注意ください！
 

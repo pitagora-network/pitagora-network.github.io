@@ -1,9 +1,3 @@
----
-title: Workflow BS-seq 01
-permalink: /Workflow_BS-seq_01/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 概要
 ----

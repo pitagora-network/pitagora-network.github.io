@@ -1,9 +1,3 @@
----
-title: VM配布準備手順
-permalink: /VM配布準備手順/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Admin](/Admin "wikilink") &gt;&gt;
 
 エクスポート前
 --------------

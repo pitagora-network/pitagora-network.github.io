@@ -1,9 +1,3 @@
----
-title: DBCLS Galaxy
-permalink: /DBCLS_Galaxy/
----
-
-<http://galaxy.dbcls.jp/>
 
 Tool list and availability
 ==========================

@@ -1,9 +1,3 @@
----
-title: DDBJ Galaxy
-permalink: /DDBJ_Galaxy/
----
-
-目次
 ----
 
 1.  DDBJ Pipeline高次部のVM移植開発について

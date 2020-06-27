@@ -1,9 +1,3 @@
----
-title: Workflows
-permalink: /Workflows/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt;
 
 仮想マシンのワークフロー
 ------------------------

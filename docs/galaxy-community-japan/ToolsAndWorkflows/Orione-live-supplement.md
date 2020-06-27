@@ -1,9 +1,3 @@
----
-title: Orione-live-supplement
-permalink: /Orione-live-supplement/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 Galaxyで微生物NGS解析を実行する[Orione](https://wiki.galaxyproject.org/PublicGalaxyServers#Orione)の主たる機能（リード配列の前処理、細菌の再シーケンシング、de novoアセンブリ、RNA-Seq、メタゲノム・メタトランスクリプトーム）を網羅したワークフロー。
 

@@ -1,9 +1,3 @@
----
-title: KotMemo
-permalink: /KotMemo/
----
-
-##### 基本手順
 
 -   立ち上げ方は２通り
     -   $HOME/GalaxyCommunityVM/Pitagora-Galaxy-0.2.3.ova をダブルクリック

@@ -1,9 +1,3 @@
----
-title: Huttenhower Lab Workflows
-permalink: /Huttenhower_Lab_Workflows/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 [Huttenhower Lab](https://galaxyproject.org/public-galaxy-servers/#huttenhower-lab)は、メタゲノム・機能ゲノム解析のためのGalaxyサーバー。
 

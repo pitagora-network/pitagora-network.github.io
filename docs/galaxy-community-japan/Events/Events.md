@@ -1,9 +1,3 @@
----
-title: Events
-permalink: /Events/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt;
 
 最近のイベント
 --------------

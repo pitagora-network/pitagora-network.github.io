@@ -1,9 +1,3 @@
----
-title: Workflow MeGAP pre
-permalink: /Workflow_MeGAP_pre/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 概要
 ----

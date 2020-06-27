@@ -1,9 +1,3 @@
----
-title: Apache Zeppelin
-permalink: /Apache_Zeppelin/
----
-
-年初の目標に「Galaxy に依存しすぎない再現性の研究」を掲げていたが、それについて考えた一つの結果
 
 ### 今までやってきたこと
 

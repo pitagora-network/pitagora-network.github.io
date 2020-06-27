@@ -1,9 +1,3 @@
----
-title: Versions
-permalink: /Versions/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt;
 
 ダウンロード方法
 ----------------

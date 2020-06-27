@@ -1,9 +1,3 @@
----
-title: Orione Workflows
-permalink: /Orione_Workflows/
----
-
-##### 参考文献
 
 -   Orione論文: [pubmed](http://www.ncbi.nlm.nih.gov/pubmed/24618473); [Full text](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4071203/pdf/btu135.pdf); [Supplementary Data](http://bioinformatics.oxfordjournals.org/content/suppl/2014/03/07/btu135.DC1/OrioneSuppMat.pdf)
 -   [Orione 0.1 documentation](http://orione-documentation.readthedocs.org/en/latest/index.html)

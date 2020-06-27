@@ -1,9 +1,3 @@
----
-title: Workflow MiGAP
-permalink: /Workflow_MiGAP/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 <s>2016.4.22現在、-remote をつけるblastが動かない</s>
 那須野さんから、Galaxyでdockerを呼ぶ時にオプション --net none がつくことを教えていただき （通常のdockerコマンドのデフォルトは --net bridge）、 これをbridgeに変更すべくjob_conf.xmlに&lt;param id="docker_net"&gt;bridge&lt;/param&gt;をつけたところ、 blastが-remoteで実行できるようになりました

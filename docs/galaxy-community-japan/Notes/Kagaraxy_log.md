@@ -1,9 +1,3 @@
----
-title: Kagaraxy log
-permalink: /Kagaraxy_log/
----
-
-[Amazon Web Services](/Amazon_Web_Services "wikilink") &gt;&gt;
 
 インスタンスの詳細
 ------------------

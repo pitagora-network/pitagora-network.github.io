@@ -1,9 +1,3 @@
----
-title: Workflow RNA-seq 02
-permalink: /Workflow_RNA-seq_02/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 概要
 ----

@@ -1,9 +1,3 @@
----
-title: Admin Variant Calling 03
-permalink: /Admin_Variant_Calling_03/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Admin](/Admin "wikilink") &gt;&gt;
 
 インストール方法
 ----------------

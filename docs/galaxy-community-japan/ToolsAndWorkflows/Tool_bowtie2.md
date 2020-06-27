@@ -1,9 +1,3 @@
----
-title: Tool bowtie2
-permalink: /Tool_bowtie2/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Tools](/Tools "wikilink") &gt;&gt;
 
 **概要**
 

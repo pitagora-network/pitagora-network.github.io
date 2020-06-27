@@ -1,9 +1,3 @@
----
-title: BioHackathon 2017
-permalink: /BioHackathon_2017/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Events](/Events "wikilink") &gt;&gt;
 
 内容
 ----

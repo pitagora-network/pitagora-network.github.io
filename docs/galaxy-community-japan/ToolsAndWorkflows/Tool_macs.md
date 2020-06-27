@@ -1,9 +1,3 @@
----
-title: Tool macs
-permalink: /Tool_macs/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Tools](/Tools "wikilink") &gt;&gt;
 
 **概要**
 

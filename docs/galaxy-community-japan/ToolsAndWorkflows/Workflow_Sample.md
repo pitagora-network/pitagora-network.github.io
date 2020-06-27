@@ -1,9 +1,3 @@
----
-title: Workflow Sample
-permalink: /Workflow_Sample/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 概要
 ----

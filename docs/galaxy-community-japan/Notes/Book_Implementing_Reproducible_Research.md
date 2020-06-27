@@ -1,9 +1,3 @@
----
-title: Book Implementing Reproducible Research
-permalink: /Book_Implementing_Reproducible_Research/
----
-
-Developing open source scientific practice
 ------------------------------------------
 
 ### 1.1 Introduction

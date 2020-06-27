@@ -1,9 +1,3 @@
----
-title: Tools
-permalink: /Tools/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt;
 
 ピタゴラ・ギャラクシーにインストールされているツールの一覧です。
 

@@ -1,9 +1,3 @@
----
-title: Admin RNA-seq 03
-permalink: /Admin_RNA-seq_03/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Admin](/Admin "wikilink") &gt;&gt;
 
 インストール手順
 ----------------

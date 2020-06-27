@@ -1,9 +1,3 @@
----
-title: Conference
-permalink: /Conference/
----
-
-春に開催する*' [「Galaxy Workshop Tokyo 2015」](/Galaxy_Workshop_Tokyo_2015 "wikilink")*'について
 
 [<File:Conference.jpg>](/File:Conference.jpg "wikilink")
 

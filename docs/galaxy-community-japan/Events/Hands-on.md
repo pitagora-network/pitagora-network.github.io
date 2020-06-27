@@ -1,9 +1,3 @@
----
-title: Hands-on
-permalink: /Hands-on/
----
-
-### ハンズオン資料
 
 <http://g86.dbcls.jp/~iNut/dono/galaxy_workshop_tokyo_2015_hands-on.compressed.pdf>
 

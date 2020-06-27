@@ -1,9 +1,3 @@
----
-title: Admin RNA-seq 05
-permalink: /Admin_RNA-seq_05/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Admin](/Admin "wikilink") &gt;&gt;
 
 インストール手順
 ----------------

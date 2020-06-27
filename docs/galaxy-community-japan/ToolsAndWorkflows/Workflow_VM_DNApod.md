@@ -1,9 +1,3 @@
----
-title: Workflow VM DNApod
-permalink: /Workflow_VM_DNApod/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 概要
 ----

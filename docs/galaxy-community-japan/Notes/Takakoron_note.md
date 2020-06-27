@@ -1,9 +1,3 @@
----
-title: Takakoron note
-permalink: /Takakoron_note/
----
-
-Dockerをgalaxyで実装する。
 --------------------------
 
 --1. Dockerを作ってみる --

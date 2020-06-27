@@ -1,9 +1,3 @@
----
-title: Tool cuffmerge
-permalink: /Tool_cuffmerge/
----
-
-**概要**
 
 -   Cufflinksのコマンドの1つです。異なる2群間のトランスクリプトをマージします。
 

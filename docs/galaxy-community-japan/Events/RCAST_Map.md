@@ -1,9 +1,3 @@
----
-title: RCAST Map
-permalink: /RCAST_Map/
----
-
-### 先端研ランチ情報
 
 生協食堂、[イタリアンレストラン](http://www.capo-p.com/menu_k07.html)、プレハブ食堂、[ネオ屋台村](http://www.w-tokyodo.com/neostall/space/rcast)があります
 

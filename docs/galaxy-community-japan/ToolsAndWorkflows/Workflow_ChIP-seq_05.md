@@ -1,9 +1,3 @@
----
-title: Workflow ChIP-seq 05
-permalink: /Workflow_ChIP-seq_05/
----
-
-ワークフロー概要
 ----------------
 
 -   count_reads： BAM と TSS リスト（TSS に限らず、注目している染色体位置のリスト）を入力として、各 TSS の周辺のリード数を Window 毎に合計して出力する。各 TSS の周辺のリード数を見たい場合には、出力された BedGraph ファイルからその TSS を選び出し、IGV で表示することができる。

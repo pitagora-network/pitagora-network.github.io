@@ -1,9 +1,3 @@
----
-title: Admin Variant Calling 02
-permalink: /Admin_Variant_Calling_02/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Admin](/Admin "wikilink")
 
 -   Test Tool Shed -- tool_shed_test_1
 

@@ -1,9 +1,3 @@
----
-title: Workflow Variant Calling 01
-permalink: /Workflow_Variant_Calling_01/
----
-
-[Main Page](/Main_Page "wikilink") &gt;&gt; [Workflows](/Workflows "wikilink") &gt;&gt;
 
 概要
 ----
